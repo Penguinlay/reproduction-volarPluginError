@@ -25,3 +25,9 @@ Run `Volar: Switch TS Plugin on/off` from VSCode command palette.
 3. Open `src/main.ts` in VSCode
 4. Open the VSCode command palette
 5. Search and run "Select TypeScript version" -> "Use workspace version"
+
+### Volar Extension Error
+
+(Extension Version is v0.25.21.)
+
+1. In any of `.vue` file, try typing partially, whether it is partial code, or gibberish, you will get an error push alert from Volar extension.
